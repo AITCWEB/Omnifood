@@ -1,6 +1,6 @@
 # Omnifood
 
-A Static website where you can ask for a meal.
+A Static website for food delivery.
 
 # What I Learned
 
